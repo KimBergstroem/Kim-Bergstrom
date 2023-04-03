@@ -5,7 +5,7 @@
 
 ### About Me
 
-Kim, a new-born Developer Student at Code Institute 👋🏻
+Kim, Student Developer at Code Institute 👋🏻
 
 With a passion for coding and an unwavering dedication to mastering the art of front-end development.
 
