@@ -1,4 +1,4 @@
-![Banner Image for Kera Cudmore GitHub Profile](https://user-images.githubusercontent.com/92253071/223401326-b30bc3a1-74e1-4d8d-877e-634727b4cff0.png)
+![Banner Image for Kim Bergstrom GitHub Profile](https://github.com/KimBergstroem/Kim-Bergstrom/blob/main/KIM%20BERGSTROM.png)
 
 # KIM BERGSTROM
 ## Student Software Developer
