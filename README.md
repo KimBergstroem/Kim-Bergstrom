@@ -1,11 +1,11 @@
-![Banner Image for Kim Bergstrom GitHub Profile](https://github.com/KimBergstroem/Kim-Bergstrom/blob/main/KIM%20BERGSTROM.png)
+![Banner Image for Kim Bergstrom GitHub Profile](https://github.com/KimBergstroem/KimBergstroem/blob/main/kimbergstrom.png)
 
 # KIM BERGSTROM
 ## Student Software Developer
 
 ### About Me
 
-Hello my name is Kim, a new-born Developer Student at Code Institute 👋🏻
+Kim, a new-born Developer Student at Code Institute 👋🏻
 
 With a passion for coding and an unwavering dedication to mastering the art of front-end development.
 
