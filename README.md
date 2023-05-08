@@ -98,7 +98,7 @@ I've also recently started streaming about coding/games and other related topics
 
 | Milestone No.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="#"><img src="#"></a></p><p>Max_Fps Cafe</p> | <p>A website created for the internet cyber cafe, a local gaming community who play together. Created using HTML, CSS. | Ongoing |
+| 1 | <p><a href="https://kimbergstroem.github.io/PP1/"><img src="image-logo.png" style="width: 105px; height: 80px;"></a></p><p>Max_Fps Cafe</p> | <p>A website created for the internet cyber cafe, a local gaming community who play together. Created using HTML, CSS. | Ongoing |
 
 
 - - -
