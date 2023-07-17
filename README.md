@@ -98,8 +98,9 @@ I've also recently started streaming about coding/games and other related topics
 
 | Milestone No.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://kimbergstroem.github.io/PP1/"><img src="image-logo.png" style="width: 105px; height: 80px;"></a></p><p>Max_Fps Cafe</p> | <p>A website created for the internet cyber cafe, a local gaming community who play together. Created using HTML, CSS. | Ongoing |
-
+| 1 | <p><a href="https://kimbergstroem.github.io/PP1/"><img src="image-logo.png" style="width: 150px; height: 90px;"></a></p><p>Max_Fps Cafe</p> | <p>A website created for the internet cyber cafe, a local gaming community who play together. Created using HTML, CSS. | MERIT |
+| 2 | <p><a href="https://kimbergstroem.github.io/PP2/"><img src="geo.JPG" style="width: 150px; height: 110px;"></a></p><p>geoMastermind</p> | <p>Exciting mini game, built with JavaScript as base and HTML/CSS, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. | Ongoing |
+| 3 | <p><a href="https://kimbergstroem.github.io/PP3/"><img src="python.JPG" style="width: 150px; height: 90px;"></a></p><p>travel_Guide</p> | <p>The Currency Exchanger and Travel Guide is a , Python-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | Ongoing |
 
 - - -
 
