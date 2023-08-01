@@ -1,7 +1,5 @@
 ![Banner Image for Kim Bergstrom GitHub Profile](https://github.com/KimBergstroem/KimBergstroem/blob/main/kimbergstrom.png)
 
-![Masterhead](https://github.com/SorinPan/SorinPan/blob/main/github-banner.png)
-
 ## 👋 Hi there!
 
 <img align="right" alt="coding" width="300" height="300" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif">
