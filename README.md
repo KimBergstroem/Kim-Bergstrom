@@ -106,8 +106,3 @@ I've also recently started streaming about coding/games and other related topics
 
 <br>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/KimBergstroem/KimBergstroem/blob/output/github-contribution-grid-snake.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-
