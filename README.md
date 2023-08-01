@@ -105,7 +105,3 @@ I've also recently started streaming about coding/games and other related topics
 | 3 | <p><a href="https://github.com/KimBergstroem/PP3"><img src="python.JPG" style="width: 150px; height: 90px;"></a></p><p>travel_Guide</p> | <p>The Currency Exchanger and Travel Guide is a , Python-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | Ongoing |
 
 <br>
-
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/KimBergstroem/KimBergstroem/blob/output/github-contribution-grid-snake.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
