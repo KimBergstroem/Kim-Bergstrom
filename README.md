@@ -1,11 +1,12 @@
 ![Banner Image for Kim Bergstrom GitHub Profile](https://github.com/KimBergstroem/KimBergstroem/blob/main/kimbergstrom.png)
 
-# KIM BERGSTROM
-## Student Software Developer
+![Masterhead](https://github.com/SorinPan/SorinPan/blob/main/github-banner.png)
 
-### About Me
+## 👋 Hi there!
 
-Kim, Student Developer at Code Institute 👋🏻
+<img align="right" alt="coding" width="300" height="300" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif">
+
+I'm Kim currently a student at Code Institute.
 
 With a passion for coding and an unwavering dedication to mastering the art of front-end development.
 
@@ -13,54 +14,54 @@ A fast learner with a thirst for knowledge, I thrives on the challenge of master
 I also loves connecting with other gamers and building a community around their shared passion as my hobbies besides programming are gaming. Streaming and playing video games with friends over twitch is second passion in my life. 🎮 👾
 
 
-- - -
+⚡Fun Fact: When faced with tricky coding bugs, I've mastered the art of Rubber Duck Debugging, where I explain my code to a rubber duck and magically find solutions! 🐤🔍🦆
 
+<br>
 
-### Contact Me
+## 🌐 Contact Me:
+<p align="center">
+<a href="https://twitter.com/kimbergstroem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="kimbergstroem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kimbergstroem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kimbergstroem" height="30" width="40" /></a>
+<a href="https://discord.gg/kimbergstroem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="kimbergstroem" height="30" width="40" /></a>
+<a href="https://discord.gg/kimbergstroem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="kimbergstroem" height="30" width="40" /></a>
+</p>
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/kim-bergstrom-47704b5b/)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">](https://discordapp.com/users/steffen#6141)
-
-I've also recently started streaming about coding/games and other related topics. If you'd like to have a look you can find my link below:
+I've also recently started streaming about coding/games and other related topics. If you'd like to have a look or give me a follow, you can find my link below:
 
 [<img src="https://img.shields.io/twitch/status/mollan1star?logo=Twitch&style=for-the-badge" alt="Twitch">](https://www.twitch.tv/mollan1star)
 
-- - -
+<br>
 
-
-### My Tech Stack
-
+## 💻 My Tech Stack:
 #### 👤 I'm Currently Learning
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-181717.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-181717?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-181717.svg?style=for-the-badge&logo=flask&logoColor=yellow)
+![Django](https://img.shields.io/badge/django-181717.svg?style=for-the-badge&logo=django&logoColor=green)
+![MySQL](https://img.shields.io/badge/mysql-181717.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 
 
 #### 🎨 Designs & Wireframes
 
-![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-181717.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+![Canva](https://img.shields.io/badge/Canva-181717.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
 #### < > Programming Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=lightblue)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### 📚 Libraries & Frameworks
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=bootstrap&logoColor=purple)
 
 
 #### 🗃 Databases
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-181717.svg?style=for-the-badge&logo=mysql&logoColor=blue)
 
 
 <!--- #### 🧪 Testing
@@ -69,32 +70,35 @@ I've also recently started streaming about coding/games and other related topics
 
 #### 💻 Version Control, IDE's & Other Coding Content 
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-181717?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitPod](https://img.shields.io/badge/Gitpod-181717?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-181717?style=for-the-badge&logo=visual%20studio%20code&logoColor=lightblue)
+![Markdown](https://img.shields.io/badge/markdown-181717.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-![GitPod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+#### 🔧 Setup:
 
+![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-181717?logo=windows11&logoColor=fff&style=for-the-badge)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-181717?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<br>
 
-**Personal Setup:** 
+## 🔥 Stats:
+<div align="center">
 
-![windows lenovo](https://img.shields.io/badge/Windows%20%20desktop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KimBergstroem&theme=dark&background=181717)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimBergstroem&layout=compact&theme=dark&background=181717)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimBergstroem&theme=dark&show_icons=true)
 
-**Work Setup:** 
-
-![windows lenovo](https://img.shields.io/badge/Windows%20%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-
-- - - 
+</div>
 
 
-### Milestone Projects for Code Institute Diploma
+> [!IMPORTANT]\
+> Since the GitHub API only [allows 5k requests per hour per user account](https://docs.github.com/en/graphql/overview/resource-limitations), the public Vercel instance hosted on `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter (see [#1471](https://github.com/anuraghazra/github-readme-stats/issues/1471)). We use caching to prevent this from happening (see https://github.com/anuraghazra/github-readme-stats#common-options). You can turn off these rate limit protections by deploying [your own Vercel instance](#disable-rate-limit-protections).
 
-**Overall Diploma Grade:** 
+<br>
+
+## 🎓 Milestone Projects for Code Institute Diploma:
+
+**Overall Diploma Grade: MERIT** 
 
 | Milestone No.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -102,7 +106,10 @@ I've also recently started streaming about coding/games and other related topics
 | 2 | <p><a href="https://kimbergstroem.github.io/PP2/"><img src="geo.JPG" style="width: 150px; height: 110px;"></a></p><p>geoMastermind</p> | <p>Exciting mini game, built with JavaScript as base and HTML/CSS, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. | MERIT |
 | 3 | <p><a href="https://github.com/KimBergstroem/PP3"><img src="python.JPG" style="width: 150px; height: 90px;"></a></p><p>travel_Guide</p> | <p>The Currency Exchanger and Travel Guide is a , Python-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | Ongoing |
 
-- - -
+<br>
 
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/KimBergstroem/KimBergstroem/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 
