@@ -1,6 +1,8 @@
 ![Banner Image for Kim Bergstrom GitHub Profile](https://github.com/KimBergstroem/KimBergstroem/blob/main/finish.gif)
 
-## 👋 Hi there!
+```yaml
+👋 Hi there! 
+```
 
 <img align="right" alt="coding" width="300" height="300" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif">
 
@@ -18,7 +20,9 @@ I also loves connecting with other gamers and building a community around their 
 
 <br><br>
 
-## 🌐 Contact Me:
+```yaml
+🌐 Contact Me
+```
 
 <br>
 
@@ -33,7 +37,9 @@ I also loves connecting with other gamers and building a community around their 
 
 <br>
 
-## 💻 My Tech Stack:
+```yaml
+💻 My Tech Stack
+```
 
 #### 👤 I'm Currently Learning
 
@@ -85,16 +91,27 @@ I also loves connecting with other gamers and building a community around their 
 
 <br>
 
-## 🔥 Stats:
-<div align="center">
+```yaml
+🔥 Stats
+```
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KimBergstroem&theme=dark&background=181717)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimBergstroem&layout=compact&theme=dark&background=181717)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimBergstroem&theme=dark&show_icons=true)
+<div align="center">
+  
+ <!-- Taken from https://github.com/anuraghazra/ and https://github.com/DenverCoder1 -->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimBergstroem&layout=compact&theme=transparent&hide_border=true&background=181717)](https://github.com) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KimBergstroem&theme=transparent&hide_border=true)](https://github.com) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimBergstroem&theme=transparent&hide_border=true&show_icons=true)
 
 </div>
 
 <br>
 
-## 🎓 Milestone Projects for Code Institute Diploma:
+```yaml
+🎓 Milestone Projects for Code Institute Diploma
+```
 
 **Overall Diploma Grade: MERIT** 
 
@@ -105,3 +122,14 @@ I also loves connecting with other gamers and building a community around their 
 | 3 | <p><a href="https://github.com/KimBergstroem/PP3"><img src="python.JPG" style="width: 150px; height: 90px;"></a></p><p>travel_Guide</p> | <p>The Currency Exchanger and Travel Guide is a , Python-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | Ongoing |
 
 <br>
+
+```yaml
+ 💫 FAVORITE
+```
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"  title="CSS3" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="CSS3" alt="django" width="40" height="40"/>&nbsp;
+  
+</div>
