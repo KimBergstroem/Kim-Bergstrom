@@ -1,36 +1,40 @@
-![Banner Image for Kim Bergstrom GitHub Profile](https://github.com/KimBergstroem/KimBergstroem/blob/main/kimbergstrom.png)
+![Banner Image for Kim Bergstrom GitHub Profile](https://github.com/KimBergstroem/KimBergstroem/blob/main/finish.gif)
 
 ## 👋 Hi there!
 
 <img align="right" alt="coding" width="300" height="300" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif">
 
-I'm Kim currently a student at Code Institute.
+<br>
 
-With a passion for coding and an unwavering dedication to mastering the art of front-end development.
+With a passion for coding and an unwavering dedication to mastering the art of front-end development. Currently a student at Code Institute.
 
 A fast learner with a thirst for knowledge, I thrives on the challenge of mastering new programming languages and tools. But it's during the dark, quiet hours of the night that I truly shines, delving deep into code and pushing the boundaries of what's possible, the possibilities are endless. :full_moon: 🌆.
 I also loves connecting with other gamers and building a community around their shared passion as my hobbies besides programming are gaming. Streaming and playing video games with friends over twitch is second passion in my life. 🎮 👾
 
 
 ⚡Fun Fact: When faced with tricky coding bugs, I've mastered the art of Rubber Duck Debugging, where I explain my code to a rubber duck and magically find solutions! 🐤🔍🦆
-<p align="center"><a href="https://www.buymeacoffee.com/Kimbergstroem"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Kimbergstroem" /></a></p>
-<br>
+<p align="center"><a href="https://www.buymeacoffee.com/kimmenbergw"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Kimbergstroem" /></a></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kimbergstroem&label=Profile%20views&color=181717&style=flat" alt="kimbergstroem" /> </p>
+
+<br><br>
 
 ## 🌐 Contact Me:
+
+<br>
+
 <p align="center">
-<a href="https://twitter.com/kimbergstroem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="kimbergstroem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kimbergstroem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kimbergstroem" height="30" width="40" /></a>
-<a href="https://discord.gg/kimbergstroem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="kimbergstroem" height="30" width="40" /></a>
-<a href="https://discord.gg/kimbergstroem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="kimbergstroem" height="30" width="40" /></a>
+<a href="https://twitter.com/kimbergstroem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kim-bergstrom-47704b5b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://discord.gg/svz5xqqW" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="discord" height="30" width="40" /></a>
+<a href="https://github.com/KimBergstroem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
+<a href=mailto:kimmen_b@hotmail.com?subject="HTML link"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/microsoftoutlook.svg" alt="outlook" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/mollan1star" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitch.svg" alt="github" height="30" width="40" /></a>
 </p>
-
-I've also recently started streaming about coding/games and other related topics. If you'd like to have a look or give me a follow, you can find my link below:
-
-[<img src="https://img.shields.io/twitch/status/mollan1star?logo=Twitch&style=for-the-badge" alt="Twitch">](https://www.twitch.tv/mollan1star)
 
 <br>
 
 ## 💻 My Tech Stack:
+
 #### 👤 I'm Currently Learning
 
 ![React](https://img.shields.io/badge/react-181717.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
