@@ -110,12 +110,12 @@ I also loves connecting with other gamers and building a community around their 
 <br>
 
 ```yaml
-🎓 Milestone Projects for Code Institute Diploma
+🎓 Portfolio Projects for Code Institute Diploma
 ```
 
 **Overall Diploma Grade: MERIT** 
 
-| Milestone No.   | Project | Description | Grade | 
+| Portfolio nr.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | 1 | <p><a href="https://kimbergstroem.github.io/PP1/"><img src="image-logo.png" style="width: 150px; height: 90px;"></a></p><p>Max_Fps Cafe</p> | <p>A website created for the internet cyber cafe, a local gaming community who play together. Created using HTML, CSS. | MERIT |
 | 2 | <p><a href="https://kimbergstroem.github.io/PP2/"><img src="geo.JPG" style="width: 150px; height: 110px;"></a></p><p>geoMastermind</p> | <p>Exciting mini game, built with JavaScript as base and HTML/CSS, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. | MERIT |
