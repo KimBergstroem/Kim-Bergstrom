@@ -13,7 +13,7 @@ I also loves connecting with other gamers and building a community around their 
 
 
 ⚡Fun Fact: When faced with tricky coding bugs, I've mastered the art of Rubber Duck Debugging, where I explain my code to a rubber duck and magically find solutions! 🐤🔍🦆
-
+<p align="center"><a href="https://www.buymeacoffee.com/Kimbergstroem"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Kimbergstroem" /></a></p>
 <br>
 
 ## 🌐 Contact Me:
@@ -87,10 +87,6 @@ I've also recently started streaming about coding/games and other related topics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KimBergstroem&theme=dark&background=181717)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimBergstroem&layout=compact&theme=dark&background=181717)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimBergstroem&theme=dark&show_icons=true)
 
 </div>
-
-
-> [!IMPORTANT]\
-> Since the GitHub API only [allows 5k requests per hour per user account](https://docs.github.com/en/graphql/overview/resource-limitations), the public Vercel instance hosted on `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter (see [#1471](https://github.com/anuraghazra/github-readme-stats/issues/1471)). We use caching to prevent this from happening (see https://github.com/anuraghazra/github-readme-stats#common-options). You can turn off these rate limit protections by deploying [your own Vercel instance](#disable-rate-limit-protections).
 
 <br>
 
