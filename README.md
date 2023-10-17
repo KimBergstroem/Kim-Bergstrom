@@ -119,7 +119,8 @@ I also loves connecting with other gamers and building a community around their 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | 1 | <p><a href="https://kimbergstroem.github.io/PP1/"><img src="image-logo.png" style="width: 150px; height: 90px;"></a></p><p>Max_Fps Cafe</p> | <p>A website created for the internet cyber cafe, a local gaming community who play together. Created using HTML, CSS. | MERIT |
 | 2 | <p><a href="https://kimbergstroem.github.io/PP2/"><img src="geo.JPG" style="width: 150px; height: 110px;"></a></p><p>geoMastermind</p> | <p>Exciting mini game, built with JavaScript as base and HTML/CSS, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. | MERIT |
-| 3 | <p><a href="https://github.com/KimBergstroem/PP3"><img src="python.JPG" style="width: 150px; height: 90px;"></a></p><p>travel_Guide</p> | <p>The Currency Exchanger and Travel Guide is a , Python-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | Ongoing |
+| 3 | <p><a href="https://github.com/KimBergstroem/PP3"><img src="python.JPG" style="width: 150px; height: 90px;"></a></p><p>travel_Guide</p> | <p>The Currency Exchanger and Travel Guide is a , Python-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | PASS |
+| 4 | <p><a href="https://github.com/KimBergstroem/PP4"><img src="pp4.png" style="width: 150px; height: 90px;"></a></p><p>Gamers Insight - Blog</p> | <p>The blog aims to create an awesome community for gamers to connect, share, and explore the world of gaming through insightful articles, discussions, and reviews. | Ongoing |
 
 <br>
 
