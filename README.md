@@ -44,7 +44,6 @@ I also loves connecting with other gamers and building a community around their 
 #### 👤 I'm Currently Learning
 
 ![React](https://img.shields.io/badge/react-181717.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-181717?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-181717.svg?style=for-the-badge&logo=flask&logoColor=yellow)
 ![Django](https://img.shields.io/badge/django-181717.svg?style=for-the-badge&logo=django&logoColor=green)
 ![MySQL](https://img.shields.io/badge/mysql-181717.svg?style=for-the-badge&logo=mysql&logoColor=blue)
@@ -61,6 +60,7 @@ I also loves connecting with other gamers and building a community around their 
 ![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=lightblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/python-181717?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### 📚 Libraries & Frameworks
 
