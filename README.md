@@ -8,7 +8,7 @@
 
 <br>
 
-With a passion for coding and an unwavering dedication to mastering the art of front-end development. Currently a student at Code Institute.
+With a passion for coding and an unwavering dedication to mastering the art of front-end development.
 
 A fast learner with a thirst for knowledge, I thrives on the challenge of mastering new programming languages and tools. But it's during the dark, quiet hours of the night that I truly shines, delving deep into code and pushing the boundaries of what's possible, the possibilities are endless. :full_moon: 🌆.
 I also loves connecting with other gamers and building a community around their shared passion as my hobbies besides programming are gaming. Streaming and playing video games with friends over twitch is second passion in my life. 🎮 👾
@@ -44,16 +44,14 @@ I also loves connecting with other gamers and building a community around their 
 #### 👤 I'm Currently Learning
 
 ![React](https://img.shields.io/badge/react-181717.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-181717.svg?style=for-the-badge&logo=flask&logoColor=yellow)
-![Django](https://img.shields.io/badge/django-181717.svg?style=for-the-badge&logo=django&logoColor=green)
-![MySQL](https://img.shields.io/badge/mysql-181717.svg?style=for-the-badge&logo=mysql&logoColor=blue)
-
+![Sass Badge](https://img.shields.io/badge/Sass-181717?logo=sass&logoColor=fff&style=for-the-badge)
+![Figma Badge](https://img.shields.io/badge/Figma-181717?logo=figma&logoColor=fff&style=for-the-badge)
 
 #### 🎨 Designs & Wireframes
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-181717.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-181717.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-181717?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 
 #### < > Programming Languages
 
@@ -65,7 +63,8 @@ I also loves connecting with other gamers and building a community around their 
 #### 📚 Libraries & Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=bootstrap&logoColor=purple)
-
+![Django](https://img.shields.io/badge/django-181717.svg?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/flask-181717.svg?style=for-the-badge&logo=flask&logoColor=yellow)
 
 #### 🗃 Databases
 
@@ -110,18 +109,18 @@ I also loves connecting with other gamers and building a community around their 
 <br>
 
 ```yaml
-🎓 Portfolio Projects for Code Institute Diploma
+🎓 Portfolio Projects
 ```
 
 **Overall Diploma Grade: MERIT** 
 
 | Portfolio nr.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://kimbergstroem.github.io/PP1/"><img src="image-logo.png" style="width: 175px; height: 110px;"></a></p><p>Max_Fps Cafe</p> | <p>A website created for the internet cyber cafe, a local gaming community who play together. Created using HTML, CSS. | MERIT |
-| 2 | <p><a href="https://kimbergstroem.github.io/PP2/"><img src="geo.JPG" style="width: 175px; height: 120px;"></a></p><p>geoMastermind</p> | <p>Exciting mini game, built with JavaScript as base and HTML/CSS, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. | MERIT |
-| 3 | <p><a href="https://github.com/KimBergstroem/PP3"><img src="python.JPG" style="width: 175px; height: 120px;"></a></p><p>travel_Guide</p> | <p>The Currency Exchanger and Travel Guide is a , Python-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | PASS |
-| 4 | <p><a href="https://github.com/KimBergstroem/PP4"><img src="pp4.PNG" style="width: 165px; height: 110px;"></a></p><p>Gamers Insight - Blog</p> | <p>The blog aims to create an awesome community for gamers to connect, share, and explore the world of gaming through insightful articles, discussions, and reviews. | DISTINCTION |
-| 5 | <p><a href="https://github.com/KimBergstroem/PP5"><img src="easylogo.png" style="width: 165px; height: 110px;"></a></p><p>E-Commerce</p> | <p>An e-commerce platform for keyboard enthusiasts and retailers. Developed using Django/Python, HTML, CSS, and JavaScript, with secure transactions through the Stripe payment system. | N/A |
+| 1 | <p><a href="https://kimbergstroem.github.io/PP1/"><img src="image-logo.png" style="width: 175px; height: 110px;"></a></p><p>Plain Website</p> | <p>A website created for the internet cyber cafe, a local gaming community who play together. Created using **HTML**, **CSS**. | MERIT |
+| 2 | <p><a href="https://kimbergstroem.github.io/PP2/"><img src="geo.JPG" style="width: 175px; height: 120px;"></a></p><p>Guessing Game</p> | <p>Exciting mini game, built with **JavaScript** as base and **HTML/CSS**, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. | MERIT |
+| 3 | <p><a href="https://github.com/KimBergstroem/PP3"><img src="python.JPG" style="width: 175px; height: 120px;"></a></p><p>Currency Exchanger</p> | <p>The Currency Exchanger and Travel Guide is a , **Python**-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | PASS |
+| 4 | <p><a href="https://github.com/KimBergstroem/PP4"><img src="pp4.PNG" style="width: 165px; height: 110px;"></a></p><p>Blog App</p> | <p>The blog aims to create an awesome community for gamers to connect, share, and explore the world of gaming through insightful articles, discussions, and reviews. This was developed with **Django/Python**, **HTML** and **CSS**. | DISTINCTION |
+| 5 | <p><a href="https://github.com/KimBergstroem/PP5"><img src="easylogo.png" style="width: 165px; height: 110px;"></a></p><p>E-Commerce App</p> | <p>An e-commerce platform for keyboard enthusiasts and retailers. Developed using **Django/Python**, **HTML**, **CSS**, and **JavaScript**, with secure transactions through the **Stripe** payment system. | N/A |  
 
 <br>
 
