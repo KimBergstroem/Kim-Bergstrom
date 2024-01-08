@@ -69,7 +69,7 @@ I also loves connecting with other gamers and building a community around their 
 #### 🗃 Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-181717.svg?style=for-the-badge&logo=mysql&logoColor=blue)
-
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-181717?logo=postgresql&logoColor=fff&style=for-the-badge)
 
 <!--- #### 🧪 Testing
 
