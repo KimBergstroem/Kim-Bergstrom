@@ -10,11 +10,12 @@
 
 With a passion for coding and an unwavering dedication to mastering the art of front-end development.
 
-A fast learner with a thirst for knowledge, I thrives on the challenge of mastering new programming languages and tools. But it's during the dark, quiet hours of the night that I truly shines, delving deep into code and pushing the boundaries of what's possible, the possibilities are endless. :full_moon: 🌆.
-I also loves connecting with other gamers and building a community around their shared passion as my hobbies besides programming are gaming. Streaming and playing video games with friends over twitch is second passion in my life. 🎮 👾
+I am a fast learner with a thirst for knowledge. I thrive on the challenge of mastering new programming languages and tools. But it's during the dark, quiet hours of the night that I truly shine, delving deep into code and pushing the boundaries of what's possible—the possibilities are endless. 🌕 🌆. 
 
+I also love connecting with other gamers and building a community around our shared passion. Besides programming, gaming, streaming, and playing video games with friends over Twitch are my second passion in life. 🎮 👾
 
 ⚡Fun Fact: When faced with tricky coding bugs, I've mastered the art of Rubber Duck Debugging, where I explain my code to a rubber duck and magically find solutions! 🐤🔍🦆
+
 <p align="center"><a href="https://www.buymeacoffee.com/kimmenbergw"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Kimbergstroem" /></a></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kimbergstroem&label=Profile%20views&color=181717&style=flat" alt="kimbergstroem" /> </p>
 
@@ -120,7 +121,7 @@ I also loves connecting with other gamers and building a community around their 
 | 2 | <p><a href="https://kimbergstroem.github.io/PP2/"><img src="geo.JPG" style="width: 175px; height: 120px;"></a></p><p>Guessing Game</p> | <p>Exciting mini game, built with **JavaScript** as base and **HTML/CSS**, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. | MERIT |
 | 3 | <p><a href="https://github.com/KimBergstroem/PP3"><img src="python.JPG" style="width: 175px; height: 120px;"></a></p><p>Currency Exchanger</p> | <p>The Currency Exchanger and Travel Guide is a , **Python**-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | PASS |
 | 4 | <p><a href="https://github.com/KimBergstroem/PP4"><img src="pp4.PNG" style="width: 165px; height: 110px;"></a></p><p>Blog App</p> | <p>The blog aims to create an awesome community for gamers to connect, share, and explore the world of gaming through insightful articles, discussions, and reviews. This was developed with **Django/Python**, **HTML** and **CSS**. | DISTINCTION |
-| 5 | <p><a href="https://github.com/KimBergstroem/PP5"><img src="easylogo.png" style="width: 165px; height: 110px;"></a></p><p>E-Commerce App</p> | <p>An e-commerce platform for keyboard enthusiasts and retailers. Developed using **Django/Python**, **HTML**, **CSS**, and **JavaScript**, with secure transactions through the **Stripe** payment system. | N/A |  
+| 5 | <p><a href="https://github.com/KimBergstroem/PP5"><img src="easylogo.png" style="width: 165px; height: 110px;"></a></p><p>E-Commerce App</p> | <p>An e-commerce platform for keyboard enthusiasts and retailers. Developed using **Django/Python**, **HTML**, **CSS**, and **JavaScript**, with secure transactions through the **Stripe** payment system. | MERIT |  
 
 <br>
 
