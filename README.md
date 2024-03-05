@@ -1,5 +1,3 @@
-![Banner Image for Kim Bergstrom GitHub Profile](https://github.com/KimBergstroem/KimBergstroem/blob/main/finish.gif)
-
 ```yaml
 👋 Hi there! 
 ```
@@ -113,15 +111,16 @@ I also love connecting with other gamers and building a community around our sha
 🎓 Portfolio Projects
 ```
 
-**Overall Diploma Grade: MERIT** 
+&nbsp;
 
-| Portfolio nr.   | Project | Description | Grade | 
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://kimbergstroem.github.io/PP1/"><img src="image-logo.png" style="width: 175px; height: 110px;"></a></p><p>Plain Website</p> | <p>A website created for the internet cyber cafe, a local gaming community who play together. Created using **HTML**, **CSS**. | MERIT |
-| 2 | <p><a href="https://kimbergstroem.github.io/PP2/"><img src="geo.JPG" style="width: 175px; height: 120px;"></a></p><p>Guessing Game</p> | <p>Exciting mini game, built with **JavaScript** as base and **HTML/CSS**, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. | MERIT |
-| 3 | <p><a href="https://github.com/KimBergstroem/PP3"><img src="python.JPG" style="width: 175px; height: 120px;"></a></p><p>Currency Exchanger</p> | <p>The Currency Exchanger and Travel Guide is a , **Python**-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. | PASS |
-| 4 | <p><a href="https://github.com/KimBergstroem/PP4"><img src="pp4.PNG" style="width: 165px; height: 110px;"></a></p><p>Blog App</p> | <p>The blog aims to create an awesome community for gamers to connect, share, and explore the world of gaming through insightful articles, discussions, and reviews. This was developed with **Django/Python**, **HTML** and **CSS**. | DISTINCTION |
-| 5 | <p><a href="https://github.com/KimBergstroem/PP5"><img src="easylogo.png" style="width: 165px; height: 110px;"></a></p><p>E-Commerce App</p> | <p>An e-commerce platform for keyboard enthusiasts and retailers. Developed using **Django/Python**, **HTML**, **CSS**, and **JavaScript**, with secure transactions through the **Stripe** payment system. | MERIT |  
+| Portfolio Nr. | Project | Description |
+| :---: | :--- | :--- |
+| 1 | [E-Commerce App](https://github.com/KimBergstroem/keyboardmaker-Ecommerce-Fullstack-App) | An e-commerce platform for keyboard enthusiasts and retailers. Developed using **Django/Python**, **HTML**, **CSS**, and **JavaScript**, with secure transactions through the **Stripe** payment system. |
+| 2 | [Blog App](https://github.com/KimBergstroem/gamers_insight-CRUD-Blog-App) | The blog aims to create an awesome community for gamers to connect, share, and explore the world of gaming through insightful articles, discussions, and reviews. This was developed with **Django/Python**, **HTML**, and **CSS**. |
+| 3 | [Currency Exchanger](https://github.com/KimBergstroem/currency-Converter-PythonApi) | The Currency Exchanger and Travel Guide is a **Python**-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. |
+| 4 | [Guessing Game](https://github.com/KimBergstroem/geoMastermind-Game) | Exciting mini game, built with **JavaScript** as base and **HTML/CSS**, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. |
+| 5 | [Plain Website](https://github.com/KimBergstroem/max_fps-Gaming-Cafe-Website) | A website created for the internet cyber cafe, a local gaming community who play together. Created using **HTML** and **CSS**. |
+
 
 <br>
 
@@ -131,7 +130,8 @@ I also love connecting with other gamers and building a community around our sha
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"  title="CSS3" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="CSS3" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   
 </div>
