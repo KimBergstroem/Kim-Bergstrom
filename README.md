@@ -17,6 +17,11 @@ I also love connecting with other gamers and building a community around our sha
 <p align="center"><a href="https://www.buymeacoffee.com/kimmenbergw"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Kimbergstroem" /></a></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kimbergstroem&label=Profile%20views&color=181717&style=flat" alt="kimbergstroem" /> </p>
 
+**#30NitesOfCode:**
+[Check out my progress](https://www.codedex.io/@kimB/30-nites-of-code)  
+
+![@kimB #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kimB)
+
 <br><br>
 
 ```yaml
