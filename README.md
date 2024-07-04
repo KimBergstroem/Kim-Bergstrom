@@ -20,8 +20,6 @@ I also love connecting with other gamers and building a community around our sha
 **#30NitesOfCode:**
 [Check out my progress](https://www.codedex.io/@kimB/30-nites-of-code)  
 
-![@kimB #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kimB)
-
 <br><br>
 
 ```yaml
