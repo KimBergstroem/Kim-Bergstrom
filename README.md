@@ -50,6 +50,7 @@ I also love connecting with other gamers and building a community around our sha
 ![React](https://img.shields.io/badge/react-181717.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Sass Badge](https://img.shields.io/badge/Sass-181717?logo=sass&logoColor=fff&style=for-the-badge)
 ![Figma Badge](https://img.shields.io/badge/Figma-181717?logo=figma&logoColor=fff&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-181717?logo=typescript&logoColor=3178C6&style=for-the-badge)
 
 #### 🎨 Designs & Wireframes
 
@@ -69,6 +70,7 @@ I also love connecting with other gamers and building a community around our sha
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=bootstrap&logoColor=purple)
 ![Django](https://img.shields.io/badge/django-181717.svg?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-181717.svg?style=for-the-badge&logo=flask&logoColor=yellow)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-181717?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge)
 
 #### 🗃 Databases
 
