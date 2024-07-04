@@ -17,9 +17,6 @@ I also love connecting with other gamers and building a community around our sha
 <p align="center"><a href="https://www.buymeacoffee.com/kimmenbergw"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Kimbergstroem" /></a></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kimbergstroem&label=Profile%20views&color=181717&style=flat" alt="kimbergstroem" /> </p>
 
-**#30NitesOfCode:**
-[Check out my progress](https://www.codedex.io/@kimB/30-nites-of-code)  
-
 <br><br>
 
 ```yaml
@@ -125,6 +122,9 @@ I also love connecting with other gamers and building a community around our sha
 | 3 | [Currency Exchanger](https://github.com/KimBergstroem/currency-Converter-PythonApi) | The Currency Exchanger and Travel Guide is a **Python**-based 🐍 application that allows users to convert between different currencies and also engages them with a fun travel experience. |
 | 4 | [Guessing Game](https://github.com/KimBergstroem/geoMastermind-Game) | Exciting mini game, built with **JavaScript** as base and **HTML/CSS**, challenges you to answer ten questions about locations, landmarks, cultures, and more from around the world. |
 | 5 | [Plain Website](https://github.com/KimBergstroem/max_fps-Gaming-Cafe-Website) | A website created for the internet cyber cafe, a local gaming community who play together. Created using **HTML** and **CSS**. |
+| 6 | [Website Application](https://github.com/KimBergstroem/midterm-agency-client-project) | This website was developed for Circle Agency, a design company. The project focuses on utilizing Fetch API, REST API, and plain JavaScript. It was built using JavaScript, HTML, and CSS. |
+
+
 
 
 <br>
